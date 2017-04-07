@@ -17,10 +17,8 @@
   ],
   "main": [
 	"./css/gloria-allelujah.css",
-	"./css/gloria-allelujah.min.css",
 	"./less/gloria-allelujah.less",
-	"./scss/gloria-allelujah.scss",
-	"./fonts/GloriaHallelujah.ttf"
+	"./scss/gloria-allelujah.scss"
   ],
   "licenses": [
     {
