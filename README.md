@@ -2,6 +2,8 @@
 
 A simple bower package providing the Fonts [Gloria Allelujah ](https://fonts.google.com/specimen/Gloria+Hallelujah). Supports LESS and SASS for CSS rebuild. Package bower created by  [William Canin](http://github.com/williamcanin).
 
+Font creation copyright: [Kimberly Geswein](http://www.kimberlygeswein.com)
+
 ## Requirements for use
 
 | Prerequisite    | How to install 
@@ -91,7 +93,6 @@ or
 $ gulp sass
 $ gulp minify
 ```
-
 
 ## LICENSE 
 
