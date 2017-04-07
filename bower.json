@@ -1,0 +1,43 @@
+{
+  "name": "fonts-gloria-allelujah",
+  "version": "0.0.1",
+  "homepage": "https://github.com/williamcanin/fonts-gloria-allelujah",
+  "authors": [
+    "William Canin <william.costa.canin@gmail.com>"
+  ],
+  "description": "'Gloria Allelujah' Web Font Package by Google Fonts - https://fonts.google.com/specimen/Gloria+Hallelujah",
+  "keywords": [
+    "font-gloria-allelujah",
+    "font-gloria-allelujah-regular",
+    "webfonts",
+    "web",
+    "google-fonts",
+    "init",
+    "fonts"
+  ],
+  "main": [
+	"./css/gloria-allelujah.css",
+	"./css/gloria-allelujah.min.css",
+	"./less/gloria-allelujah.less",
+	"./scss/gloria-allelujah.scss",
+	"./fonts/GloriaHallelujah.ttf"
+  ],
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "init",
+    "*.sh"
+  ]
+}
